@@ -1,0 +1,1 @@
+Just a simple HTML project to practice GIT, HTML and linking to other webpages. 
